@@ -1,64 +1,25 @@
+
 ## Constants
 
-<dl>
-<dt><a href="#presentValue">presentValue</a> ⇒</dt>
-<dd><p>Present Value (PV)</p>
-</dd>
-<dt><a href="#futureValue">futureValue</a> ⇒</dt>
-<dd><p>Future Value (FV)</p>
-</dd>
-<dt><a href="#netPresentValue">netPresentValue</a> ⇒</dt>
-<dd><p>Net Present Value (NPV)</p>
-</dd>
-<dt><a href="#internalRateOfReturn">internalRateOfReturn</a> ⇒</dt>
-<dd><p>Internal Rate of Return (IRR)</p>
-</dd>
-<dt><a href="#paybackPeriod">paybackPeriod</a> ⇒</dt>
-<dd><p>Payback Period (PP)</p>
-</dd>
-<dt><a href="#returnOnInvestment">returnOnInvestment</a> ⇒</dt>
-<dd><p>Return on Investment (ROI)</p>
-</dd>
-<dt><a href="#amortization">amortization</a> ⇒</dt>
-<dd><p>Amortization (AM)</p>
-</dd>
-<dt><a href="#profitabilityIndex">profitabilityIndex</a> ⇒</dt>
-<dd><p>Profitability Index (PI)</p>
-</dd>
-<dt><a href="#discountFactor">discountFactor</a> ⇒</dt>
-<dd><p>Discount Factor (DF)</p>
-</dd>
-<dt><a href="#compoundInterest">compoundInterest</a> ⇒</dt>
-<dd><p>Compound Interest (CI)</p>
-</dd>
-<dt><a href="#compoundAnnualGrowthRate">compoundAnnualGrowthRate</a> ⇒</dt>
-<dd><p>Compound Annual Growth Rate (CAGR)</p>
-</dd>
-<dt><a href="#leverageRatio">leverageRatio</a> ⇒</dt>
-<dd><p>Leverage Ratio (LR)</p>
-</dd>
-<dt><a href="#ruleOf72">ruleOf72</a> ⇒</dt>
-<dd><p>Rule of 72 (R72)</p>
-</dd>
-<dt><a href="#weightedAverageCostOfCapital">weightedAverageCostOfCapital</a> ⇒</dt>
-<dd><p>Weighted Average Cost of Capital (WACC)</p>
-</dd>
-<dt><a href="#loanPaymentPerPeriod">loanPaymentPerPeriod</a> ⇒</dt>
-<dd><p>Loan Payment Per Period (PMT)</p>
-</dd>
-<dt><a href="#inflationAdjustedReturn">inflationAdjustedReturn</a> ⇒</dt>
-<dd><p>Inflation-adjusted Return (IAR)</p>
-</dd>
-<dt><a href="#capitalAssetPricingModel">capitalAssetPricingModel</a> ⇒</dt>
-<dd><p>Capital Asset Pricing Model (CAPM)</p>
-</dd>
-<dt><a href="#stockPresentValue">stockPresentValue</a> ⇒</dt>
-<dd><p>Stock Present Value (Stock PV)</p>
-</dd>
-<dt><a href="#irregularInternalRateOfReturn">irregularInternalRateOfReturn</a> ⇒</dt>
-<dd><p>Irregular Internal Rate Of Return (XIRR)</p>
-</dd>
-</dl>
+* [presentValue](#presentValue) ⇒
+* [futureValue](#futureValue) ⇒
+* [netPresentValue](#netPresentValue) ⇒
+* [internalRateOfReturn](#internalRateOfReturn) ⇒
+* [paybackPeriod](#paybackPeriod) ⇒
+* [returnOnInvestment](#returnOnInvestment) ⇒
+* [amortization](#amortization) ⇒
+* [profitabilityIndex](#profitabilityIndex) ⇒
+* [discountFactor](#discountFactor) ⇒
+* [compoundInterest](#compoundInterest) ⇒
+* [compoundAnnualGrowthRate](#compoundAnnualGrowthRate) ⇒
+* [leverageRatio](#leverageRatio) ⇒
+* [ruleOf72](#ruleOf72) ⇒
+* [weightedAverageCostOfCapital](#weightedAverageCostOfCapital) ⇒
+* [loanPaymentPerPeriod](#loanPaymentPerPeriod) ⇒
+* [inflationAdjustedReturn](#inflationAdjustedReturn) ⇒
+* [capitalAssetPricingModel](#capitalAssetPricingModel) ⇒
+* [stockPresentValue](#stockPresentValue) ⇒
+* [irregularInternalRateOfReturn](#irregularInternalRateOfReturn) ⇒
 
 <a name="presentValue"></a>
 
