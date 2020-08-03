@@ -4,7 +4,7 @@
   "description": "A POC using GitHub Pages and JSDoc-to-Markdown with some GitHub Action magic.",
   "main": "index.js",
   "scripts": {
-    "build-docs": "jsdoc2md -c conf.json -m grouped -g grouped src > docs.md",
+    "build-docs": "jsdoc2md -c docs/conf.json -m grouped -g grouped src > docs/docs.md",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

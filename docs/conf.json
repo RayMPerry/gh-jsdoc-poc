@@ -1,6 +1,5 @@
 {
   "opts": {
-    "destination": "./docs",
     "recurse": true
   },
   "plugins": [
