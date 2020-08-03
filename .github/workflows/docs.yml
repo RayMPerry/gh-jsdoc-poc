@@ -23,6 +23,8 @@ jobs:
 
     - name: GitHub Pages
       uses: crazy-max/ghaction-github-pages@v2.1.1
+      env:
+        GH_PAT: ${{ secrets.GH_PAT }}
       with:
         target_branch: master
         build_dir: .
