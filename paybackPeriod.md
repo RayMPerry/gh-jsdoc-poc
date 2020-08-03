@@ -1,5 +1,5 @@
 
-## paybackPeriod ⇒
+## paybackPeriod 
 Payback Period (PP)
 
 **Kind**: global constant  

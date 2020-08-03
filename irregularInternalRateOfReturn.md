@@ -1,5 +1,5 @@
 
-## irregularInternalRateOfReturn ⇒
+## irregularInternalRateOfReturn 
 Irregular Internal Rate Of Return (XIRR)
 
 **Kind**: global constant  

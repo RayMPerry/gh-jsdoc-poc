@@ -1,5 +1,5 @@
 
-## inflationAdjustedReturn ⇒
+## inflationAdjustedReturn 
 Inflation-adjusted Return (IAR)
 
 **Kind**: global constant  

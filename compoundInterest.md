@@ -1,5 +1,5 @@
 
-## compoundInterest ⇒
+## compoundInterest 
 Compound Interest (CI)
 
 **Kind**: global constant  

@@ -1,5 +1,5 @@
 
-## discountFactor ⇒
+## discountFactor 
 Discount Factor (DF)
 
 **Kind**: global constant  

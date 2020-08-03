@@ -1,5 +1,5 @@
 
-## stockPresentValue ⇒
+## stockPresentValue 
 Stock Present Value (Stock PV)
 
 **Kind**: global constant  

@@ -1,5 +1,5 @@
 
-## futureValue ⇒
+## futureValue 
 Future Value (FV)
 
 **Kind**: global constant  

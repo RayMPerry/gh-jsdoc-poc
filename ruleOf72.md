@@ -1,5 +1,5 @@
 
-## ruleOf72 ⇒
+## ruleOf72 
 Rule of 72 (R72)
 
 **Kind**: global constant  

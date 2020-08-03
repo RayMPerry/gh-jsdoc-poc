@@ -1,5 +1,5 @@
 
-## internalRateOfReturn ⇒
+## internalRateOfReturn 
 Internal Rate of Return (IRR)
 
 **Kind**: global constant  

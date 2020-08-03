@@ -1,5 +1,5 @@
 
-## compoundAnnualGrowthRate ⇒
+## compoundAnnualGrowthRate 
 Compound Annual Growth Rate (CAGR)
 
 **Kind**: global constant  

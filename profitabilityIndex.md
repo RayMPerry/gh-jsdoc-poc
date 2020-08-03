@@ -1,5 +1,5 @@
 
-## profitabilityIndex ⇒
+## profitabilityIndex 
 Profitability Index (PI)
 
 **Kind**: global constant  

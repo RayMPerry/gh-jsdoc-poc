@@ -1,5 +1,5 @@
 
-## returnOnInvestment ⇒
+## returnOnInvestment 
 Return on Investment (ROI)
 
 **Kind**: global constant  

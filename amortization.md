@@ -1,5 +1,5 @@
 
-## amortization ⇒
+## amortization 
 Amortization (AM)
 
 **Kind**: global constant  

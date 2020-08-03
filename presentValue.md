@@ -1,5 +1,5 @@
 
-## presentValue ⇒
+## presentValue 
 Present Value (PV)
 
 **Kind**: global constant  

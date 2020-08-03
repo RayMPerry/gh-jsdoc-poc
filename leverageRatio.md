@@ -1,5 +1,5 @@
 
-## leverageRatio ⇒
+## leverageRatio 
 Leverage Ratio (LR)
 
 **Kind**: global constant  

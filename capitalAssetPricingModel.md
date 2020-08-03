@@ -1,5 +1,5 @@
 
-## capitalAssetPricingModel ⇒
+## capitalAssetPricingModel 
 Capital Asset Pricing Model (CAPM)
 
 **Kind**: global constant  

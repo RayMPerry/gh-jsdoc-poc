@@ -1,5 +1,5 @@
 
-## loanPaymentPerPeriod ⇒
+## loanPaymentPerPeriod 
 Loan Payment Per Period (PMT)
 
 **Kind**: global constant  

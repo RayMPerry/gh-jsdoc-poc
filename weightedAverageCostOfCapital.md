@@ -1,5 +1,5 @@
 
-## weightedAverageCostOfCapital ⇒
+## weightedAverageCostOfCapital 
 Weighted Average Cost of Capital (WACC)
 
 **Kind**: global constant  

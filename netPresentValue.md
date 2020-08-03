@@ -1,5 +1,5 @@
 
-## netPresentValue ⇒
+## netPresentValue 
 Net Present Value (NPV)
 
 **Kind**: global constant  
