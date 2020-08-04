@@ -96,12 +96,14 @@ const durationInYears = (date1: Date, date2: Date): number => (Math.abs(date2.ge
 
 /**
  *  Present Value (PV)
+ *  
+ *  @remarks This is a test remark.
  *
- *  @param rate
- *  @param cashFlow
- *  @param numberOfPeriods
+ *  @param {number} - The interest rate
+ *  @param {number} - The current cash flow amount 
+ *  @param {number} - The number of periods to calculate
  *
- *  @returns The current worth of a future sum of money or stream of
+ *  @returns {number} - The current worth of a future sum of money or stream of
  *  cash flows, given a specified rate of return.
  */
 export const presentValue = calculateCashFlowValue(ValueType.PRESENT);
@@ -109,11 +111,13 @@ export const presentValue = calculateCashFlowValue(ValueType.PRESENT);
 /**
  *  Future Value (FV)
  *  
- *  @param rate
- *  @param cashFlow
- *  @param numberOfPeriods
+ *  @remarks This is a test remark.
  *
- *  @returns The current worth of a future sum of money or stream of
+ *  @param {number} - The interest rate
+ *  @param {number} - The current cash flow amount 
+ *  @param {number} - The number of periods to calculate
+ *
+ *  @returns {number} - The current worth of a future sum of money or stream of
  *  cash flows, given a specified rate of return.
  */
 export const futureValue = calculateCashFlowValue(ValueType.FUTURE);
